@@ -8,26 +8,9 @@
 
 config_version=4
 
-_global_script_classes=[ {
-"base": "TileMap",
-"class": "board",
-"language": "GDScript",
-"path": "res://scripts/board.gd"
-}, {
-"base": "Node2D",
-"class": "boardTile",
-"language": "GDScript",
-"path": "res://scripts/boardTile.gd"
-} ]
-_global_script_class_icons={
-"board": "",
-"boardTile": ""
-}
-
 [application]
 
 config/name="Big Iron Magic"
-run/main_scene="res://scenes/objects/board.tscn"
 config/icon="res://icon.png"
 
 [gui]

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bigIron.jpeg-8b650c0beedf23c995dddcc6d45a9f8e.stex"
+path="res://.import/bigIron.jpeg-da401545629129d791e6a7b7ba673957.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/bigIron.jpeg"
-dest_files=[ "res://.import/bigIron.jpeg-8b650c0beedf23c995dddcc6d45a9f8e.stex" ]
+source_file="res://assets/source/bigIron.jpeg"
+dest_files=[ "res://.import/bigIron.jpeg-da401545629129d791e6a7b7ba673957.stex" ]
 
 [params]
 
